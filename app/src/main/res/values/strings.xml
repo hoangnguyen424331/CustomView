@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CustomView</string>
+    <string name="clock">CLOCK</string>
+    <string name="circular_progress">Circular Progress</string>
+    <string name="back">Back</string>
+    <string name="start">Start</string>
+</resources>
